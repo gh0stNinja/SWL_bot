@@ -1,8 +1,7 @@
 # SWL_bot
 分享一些免费的社工库机器人，下面是邀请链接。
 
-#### DATA007-泄露数据查询
-https://t.me/DATA_007bot?start=2cc094c99b
+#### DATA007-泄露数据查询  https://t.me/DATA_007bot?start=2cc094c99b
 
 #### 平安社工库
 https://t.me/pingansgk_bot?start=00bc827560
