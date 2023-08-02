@@ -21,3 +21,6 @@ https://t.me/DogeSGK_bot?start=5214551080
 
 #### 免费社工库机器人 – OnlySGK
 https://t.me/OnlySGK_bot?start=nv0q9wuy3
+
+#### TG群关系查询
+https://t.me/STScanBot?start=upBAM307h8
